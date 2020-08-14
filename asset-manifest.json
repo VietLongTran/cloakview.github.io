@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1862f263.chunk.css",
+    "main.js": "/static/js/main.fb674901.chunk.js",
+    "main.js.map": "/static/js/main.fb674901.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cfae3202.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cfae3202.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.823f968d.chunk.js": "/static/js/2.823f968d.chunk.js",
+    "static/js/2.823f968d.chunk.js.map": "/static/js/2.823f968d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f83aa20b56787634681057055c8e4237.js": "/precache-manifest.f83aa20b56787634681057055c8e4237.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.1862f263.chunk.css.map": "/static/css/main.1862f263.chunk.css.map",
+    "static/js/2.823f968d.chunk.js.LICENSE.txt": "/static/js/2.823f968d.chunk.js.LICENSE.txt",
+    "static/media/CloakviewLogo.64b54e46.svg": "/static/media/CloakviewLogo.64b54e46.svg",
+    "static/media/catgif.gif": "/static/media/catgif.b0c80361.gif",
+    "static/media/emily.jpg": "/static/media/emily.f204c89f.jpg",
+    "static/media/emilycloaked.jpg": "/static/media/emilycloaked.4922ad49.jpg",
+    "static/media/giphy.gif": "/static/media/giphy.d57473c8.gif",
+    "static/media/homer.gif": "/static/media/homer.1d54197a.gif",
+    "static/media/shawn.jpg": "/static/media/shawn.46234547.jpg",
+    "static/media/shawncloaked.jpg": "/static/media/shawncloaked.e288936e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfae3202.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.823f968d.chunk.js",
+    "static/css/main.1862f263.chunk.css",
+    "static/js/main.fb674901.chunk.js"
+  ]
+}
